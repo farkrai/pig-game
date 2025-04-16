@@ -74,7 +74,7 @@ main {
 }
 
 .player--active .current {
-  opacity: 1;
+  opacity: 0.9;
 }
 
 .current {
