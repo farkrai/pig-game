@@ -35,6 +35,7 @@ const init = function () {
 };
 init();
 
+//Switch the current player to the next player
 const switchPlayer = function () {
   document.getElementById(`current--${activePlayer}`).textContent = 0;
   currentScore = 0;
